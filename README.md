@@ -7,3 +7,6 @@ To evaluate the leaves node, I use mobility (at early game) and greedy (at end g
 > Mobility heuristic is how many valid move you have compared to your opponent
 > 
 > Greedy heuristic is the difference of amount of pieces you have with your opponent
+
+Tested on WSL (Window Subsystem for Linux) 
+
